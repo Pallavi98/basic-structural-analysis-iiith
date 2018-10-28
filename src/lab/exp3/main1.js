@@ -3,7 +3,6 @@ function check(){
 	var Q2=document.quiz.q2.value;
 	var Q3=document.quiz.q3.value;
 	var Q4=document.quiz.q4.value;
-	var Q5=document.quiz.q5.value;
 
 	var c=0;
 	if(Q1=="1"){
